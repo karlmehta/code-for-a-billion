@@ -45,7 +45,7 @@ Browse all submissions: **[Submissions »](../../issues?q=is%3Aissue+label%3Asub
 <!-- Organizers: fill these in. -->
 - **Dates:** _TBD_
 - **Tracks:** Agriculture · Health · Education · Financial Inclusion · Governance · Climate · Other
-- **Prizes:** _TBD_
+- **Prizes:** 🥇 1st **$10,000** · 🥈 2nd **$5,000** · 🥉 3rd **$2,500** _(total prize pool $17,500)_
 - **Deadline:** _TBD_
 
 See the full **[Judging Rubric »](JUDGING.md)** for how projects are scored.
