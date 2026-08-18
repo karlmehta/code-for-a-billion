@@ -1,0 +1,84 @@
+name: "🚀 Project Submission"
+description: "Submit your hackathon project — problem statement, repo, and demo."
+title: "[Submission] <Team / Project name>"
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for building at **Code for a Billion**! Fill this in to submit your project.
+        Official IDE: **AgentFoundry (AF)**. Make sure your repo is public and your demo link works.
+  - type: input
+    id: team
+    attributes:
+      label: Team / Project name
+      placeholder: "e.g. Team Aeon — KrishiAI"
+    validations:
+      required: true
+  - type: input
+    id: members
+    attributes:
+      label: Team members (names + GitHub handles)
+      placeholder: "Alice (@alice), Bob (@bob)"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem statement
+      description: "What problem are you solving, and for whom? (2–5 sentences)"
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What you built
+      description: "Your solution, key features, and how you used AgentFoundry (AF)."
+    validations:
+      required: true
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository URL
+      placeholder: "https://github.com/your-team/your-project"
+    validations:
+      required: true
+  - type: input
+    id: demo
+    attributes:
+      label: Demo URL (live app or video)
+      placeholder: "https://youtu.be/... or https://your-demo.app"
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: Track / category
+      options:
+        - Agriculture
+        - Health
+        - Education
+        - Financial Inclusion
+        - Governance
+        - Climate
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact email
+      placeholder: "you@example.com"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: "Built using AgentFoundry (AF), the official IDE"
+          required: true
+        - label: "Our repository is public and includes a README with setup steps"
+          required: true
+        - label: "The demo link works and is accessible to judges"
+          required: true
