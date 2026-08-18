@@ -50,6 +50,20 @@ body:
       placeholder: "https://youtu.be/... or https://your-demo.app"
     validations:
       required: true
+  - type: textarea
+    id: problem_scale
+    attributes:
+      label: Scale & severity of the problem
+      description: "How many citizens face this problem, and what is the human suffering or economic loss it causes? Use numbers/sources where you can. (Judged — 50% of your score.)"
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Deployment & impact data
+      description: "Real evidence of impact if deployed — users reached, outcomes, measurable change (before/after). Strongest submissions have field data. (Judged — 25% of your score.)"
+    validations:
+      required: false
   - type: dropdown
     id: track
     attributes:
