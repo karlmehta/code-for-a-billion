@@ -2,7 +2,7 @@
 
 A hackathon by **[Code for India](https://codeforindia.org)** — building technology that can impact a billion lives.
 
-**Official IDE: [AgentFoundry (AF)](https://codeforindia.org)** — participants build their projects in AgentFoundry.
+**Official IDE: [AgentFoundry (AF)](https://agentfoundry.me)** — participants build their projects in AgentFoundry.
 
 > This repository is the **submission hub**. Every team submits their problem statement, code repo, and demo here.
 
@@ -46,12 +46,14 @@ Browse all submissions: **[Submissions »](../../issues?q=is%3Aissue+label%3Asub
 - **Dates:** _TBD_
 - **Tracks:** Agriculture · Health · Education · Financial Inclusion · Governance · Climate · Other
 - **Prizes:** _TBD_
-- **Judging criteria:** _TBD_
 - **Deadline:** _TBD_
 
-## ❓ Questions
+See the full **[Judging Rubric »](JUDGING.md)** for how projects are scored.
 
-Open a [discussion or issue](../../issues) or reach the organizers at **[codeforindia.org](https://codeforindia.org)**.
+## ❓ Questions & Q&A
+
+Ask questions, find teammates, and get help in **[Discussions »](../../discussions)**.
+Or reach the organizers at **[codeforindia.org](https://codeforindia.org)**.
 
 ---
 

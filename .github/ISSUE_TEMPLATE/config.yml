@@ -4,5 +4,8 @@ contact_links:
     url: https://codeforindia.org
     about: Learn about the organizer, tracks, dates, and prizes.
   - name: AgentFoundry — the official IDE
-    url: https://codeforindia.org
+    url: https://agentfoundry.me
     about: Build your project in AgentFoundry (AF), the official IDE for this hackathon.
+  - name: Q&A / Discussions
+    url: https://github.com/karlmehta/code-for-a-billion/discussions
+    about: Ask questions, find teammates, and get help.
